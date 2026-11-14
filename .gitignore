@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Сборка PyInstaller
+build/
+dist/
+*.spec
+
+# Локальные настройки и логи
+.env
+*.log
+
+# Системное
+Thumbs.db
+.DS_Store
